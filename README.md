@@ -1,6 +1,6 @@
 # Hi, I'm Matthew Miller 👋
 
-Founder & Creative Engineer at **[Spraycan Creative](https://spraycancreative.com)**.
+Systems Architect at **[Spraycan Creative](https://spraycancreative.com)**.
 
 ---
 
