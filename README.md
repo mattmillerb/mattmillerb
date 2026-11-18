@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Matthew Miller 👋
 
-<!--
-**mattmillerb/mattmillerb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Creative Engineer at **[Spraycan Creative](https://spraycancreative.com)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 What I Build
+- **[Spraycan Creative](https://spraycancreative.com)** — Full-service creative studio & bespoke digital experience engineering based in Yukon / Oklahoma City.
+- **[Woven Adventures](https://spraycan.games/play/)** — Interactive tabletop story card & digital unboxing engine.
+- High-performance, pixel-perfect web engineering, custom WordPress architectures, and interactive digital applications.
+
+---
+
+### 🚀 Public Showcases & Open Projects
+- 🌐 **Agency Headquarters:** [https://spraycancreative.com](https://spraycancreative.com)
+- 🎲 **Interactive Game Demo:** [https://spraycan.games/play/](https://spraycan.games/play/)
+- 📦 **Woven Adventures Store:** [https://spraycan.games/product/woven-adventures/](https://spraycan.games/product/woven-adventures/)
+- 💻 **Open Repositories:**
+  - [`mattmillerb/spraycan-creative`](https://github.com/mattmillerb/spraycan-creative) — Official studio repository & capabilities index.
+  - [`mattmillerb/woven-adventures-card`](https://github.com/mattmillerb/woven-adventures-card) — Interactive digital story card architecture.
+
+---
+
+### 📬 Connect & Collaborate
+- **Website:** [https://spraycancreative.com](https://spraycancreative.com)
+- **Email:** [team@spraycancreative.com](mailto:team@spraycancreative.com)
+
+© 2026 Matthew Miller · Spraycan Creative.
