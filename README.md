@@ -19,8 +19,4 @@ Systems Architect at **[Spraycan Creative](https://spraycancreative.com)**.
 
 ---
 
-### Connect and Collaborate
-- Website: [https://spraycancreative.com](https://spraycancreative.com)
-- Email: [hello@spraycancreative.com](mailto:hello@spraycancreative.com)
-
-(c) 2026 Matthew Miller. Spraycan Creative.
+(c) 2026 Matthew Miller.
