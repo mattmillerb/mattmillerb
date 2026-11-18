@@ -15,9 +15,7 @@ Systems Architect at **[Spraycan Creative](https://spraycancreative.com)**.
 - 🌐 **Agency Headquarters:** [https://spraycancreative.com](https://spraycancreative.com)
 - 🎲 **Interactive Game Demo:** [https://spraycan.games/play/](https://spraycan.games/play/)
 - 📦 **Woven Adventures Store:** [https://spraycan.games/product/woven-adventures/](https://spraycan.games/product/woven-adventures/)
-- 💻 **Open Repositories:**
-  - [`mattmillerb/spraycan-creative`](https://github.com/mattmillerb/spraycan-creative) — Official studio repository & capabilities index.
-  - [`mattmillerb/woven-adventures-card`](https://github.com/mattmillerb/woven-adventures-card) — Interactive digital story card architecture.
+- 💻 **Studio Repository:** [`mattmillerb/spraycan-creative`](https://github.com/mattmillerb/spraycan-creative) — Official studio repository & capabilities index.
 
 ---
 
